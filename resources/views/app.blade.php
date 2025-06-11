@@ -7,7 +7,8 @@
     @vite('resurces/css/app.css')
 </head>
 <body>
-    <h1>test one laravel</h1>
+    <h1>test one laravel v2</h1>
+    <p>hffdsiofn vjfjkfd fnjf charset</p>
     
     <hr>
 
